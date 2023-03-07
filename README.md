@@ -1,8 +1,8 @@
 # Logica_Programacao
  
- exercicios em visualg 
- -estruturas sequencial 
- -estruturas condicional
- -estruturas de repertição 
- -vetor
- -matrizes 
+ exercicios em visualg <br>
+ -estruturas sequencial <br>
+ -estruturas condicional <br>
+ -estruturas de repertição <br>
+ -vetor<br>
+ -matrizes <br>
