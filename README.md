@@ -1,2 +1,8 @@
 # Logica_Programacao
- exercicios com prática em 5 linguagens 
+ 
+ exercicios em visualg 
+ -estruturas sequencial 
+ -estruturas condicional
+ -estruturas de repertição 
+ -vetor
+ -matrizes 
